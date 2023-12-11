@@ -1,0 +1,10 @@
+Number of loss making trades 23
+Annualized Return: 28.52%
+Maximum Drawdown (%): -38.515921267676475
+Sharpe Ratio: -3.7377010281135767
+Total trades: 69
+Largest Loss-making Trade: -12.86%
+Largest Profit-making Trade: 11.98%
+Win Ratio: 0.5315694527961515
+Strategy Return: 423.86%
+Strategy Return: 423.86%
